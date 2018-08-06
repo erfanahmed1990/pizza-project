@@ -1,3 +1,3 @@
 # pizza-project
 http://pizza.project erfan ahmed
-# This is the demo and i am developing it.
+# This is the demo and I am developing it.
